@@ -3,6 +3,8 @@
 Hey everyone. Welcome to this project. In this project, I have created a to-do list app with local storage. To build this app we need HTML, CSS and Javascript.
 This app will be helpfull in making day to day task. User can add task that need to complete and make changes in those task and also remove them from the list.
 
+<a href="https://633385f4107b11006ca77737--polite-palmier-a47263.netlify.app/">Deployment</a>
+
 # Tech Stack Used
 - HTML
 - CSS
